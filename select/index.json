@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "八月の夜",
+  "base_artist": "春猿火",
+  "createdAt": "2026-01-11T03:18:09.703119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "八月の夜",
+      "artist": "SILENT SIREN",
+      "has_synced": false,
+      "path": "select/01_八月の夜_SILENT_SIREN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "八月の夜",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/02_八月の夜_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "八月の夜",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/03_八月の夜_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "八月の夜 (Hachigatsu no Yoru)",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/04_八月の夜_(Hachigatsu_no_Yoru)_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "八月の夜",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/05_八月の夜_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "八月の夜",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/06_八月の夜_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "八月の夜",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_八月の夜_春猿火.txt"
+    }
+  ]
+}
